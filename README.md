@@ -1,6 +1,10 @@
 # Simple React ToDo App
 
-With React-Router
+- Add Todo
+- Mark Todo
+- Delete ToDo
+
+## Additional Technology: React-Router
 
 # Working Link:
 https://ecstatic-boyd-a16d5a.netlify.app/
